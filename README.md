@@ -1,3 +1,3 @@
 # CAN
 This is my first Git Repository.
-Author - Its me.
+Author - My another computer is your computer.
